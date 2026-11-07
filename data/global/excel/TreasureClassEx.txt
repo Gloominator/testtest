@@ -236,11 +236,11 @@ Act 2 (N) Good	5	42	1						Jewelry C	120	Chipped Gem	4	Flawed Gem	20	Normal Gem	
 Act 3 (N) Good	5	46	1						Jewelry C	120	Chipped Gem	4	Flawed Gem	20	Normal Gem	28	Flawless Gem	56	wss	4	Runes 10	28	Fate Drop	2	Orbs	1						0
 Act 4 (N) Good	5	51	1						Jewelry C	120	Chipped Gem	4	Flawed Gem	20	Normal Gem	28	Flawless Gem	56	wss	4	Runes 11	28	Fate Drop	2	Orbs	1						0
 Act 5 (N) Good	5	57	1						Jewelry C	120	Chipped Gem	4	Flawed Gem	20	Normal Gem	28	Flawless Gem	56	wss	4	Runes 12 equiv	28	Fate Drop	2	Orbs	1						0
-Act 1 (H) Good	5	66	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	30	wss	4	Map Tier 1	2	Orbs	4	Fate Drop	2				0
-Act 2 (H) Good	5	72	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	30	wss	4	Map Tier 1	2	Orbs	4	Fate Drop	2				0
-Act 3 (H) Good	5	78	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	30	wss	4	Map Tier 1	2	Orbs	4	Fate Drop	2				0
-Act 4 (H) Good	5	82	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	30	wss	4	Map Tier 1	2	Orbs	4	Fate Drop	2				0
-Act 5 (H) Good	5	85	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	30	wss	4	Map Tier 1	2	Orbs	4	Fate Drop	2				0
+Act 1 (H) Good	5	66	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	30	wss	4	Map Tier 1	2	Orbs (H)	4	Fate Drop	2				0
+Act 2 (H) Good	5	72	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	30	wss	4	Map Tier 1	2	Orbs (H)	4	Fate Drop	2				0
+Act 3 (H) Good	5	78	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	30	wss	4	Map Tier 1	2	Orbs (H)	4	Fate Drop	2				0
+Act 4 (H) Good	5	82	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	30	wss	4	Map Tier 1	2	Orbs (H)	4	Fate Drop	2				0
+Act 5 (H) Good	5	85	1						Jewelry C	120	Flawed Gem	27	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	30	wss	4	Map Tier 1	2	Orbs (H)	4	Fate Drop	2				0
 Map Good t1	20	85	1						Jewelry C	120	Flawed Gem	28	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	30	wss	6	T1 Map Drop	5	Map Orbs Drop	8	Fate Drop	5				0
 Map Good t2	20	86	1						Jewelry C	120	Flawed Gem	28	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	30	wss	6	T2 Map Drop	5	Map Orbs Drop	8	Fate Drop	5				0
 Map Good t3	20	87	1						Jewelry C	120	Flawed Gem	28	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	30	wss	6	T3 Map Drop	5	Map Orbs Drop	8	Fate Drop	5				0
@@ -1143,21 +1143,21 @@ Orbs			1					0	dvo	148	mfo	30	rgo	40	cho	208	oou	8	tjo	1	dvia	500	rotf	15	rofp	5
 Map Boss TC		85	5					0	Act 5 (H) Equip C	262	Act 5 (H) Good	20	T3 Map Drop	15	dcbl	3	dcho	1	dcso	2	rtmv	2	lucc	2								0
 Replica			1					0	rofp	1	gld	10																				0
 Prime Evil Embers			1					0	heo	1	teo	1																				0
-Map Orbs Drop			1					0	Orbs	129	Prime Evil Embers	1																				0
-Fate Common A			1					0	fslr	1	fsvi	1	fsem	1	fslt	1	fstw	1	fsla	1	fstd	1	fste	1	fstv	1						0
-Fate Common B			1					0	fsar	1	fscf	1	fsed	1	fsta	1	fsts	1	fstf	1	fsaj	1	fsas	1	fsph	1						0
-Fate Common C			1					0	fsbl	1	fssf	1	fsmi	1	fsew	1	fssg	1	fstu	1	fsch	1	fsuw	1								0
+Map Orbs Drop			1					0	Orbs (H)	129	Prime Evil Embers	1																				0
+Fate Common A			1					0	fslr	1	fsvi	1	fsem	1	fslt	1	fstw	1	fsla	1	fstd	1	fste	1	fstv	1	fsls	1				0
+Fate Common B			1					0	fsar	1	fscf	1	fsed	1	fsta	1	fsts	1	fstf	1	fsaj	1	fsas	1	fsph	1	fsgd	1				0
+Fate Common C			1					0	fsbl	1	fssf	1	fsmi	1	fsew	1	fssg	1	fstu	1	fsch	1	fsuw	1	fsse	1	fsmw	1				0
 Map Boss Uber Relic			1					0	rotv	1	gld	4999																				0
-Fate Uncommon A			1					0	fsms	1	fspv	1	fsps	1	fstc	1	fsat	1	fslu	1	fsbm	1										0
-Fate Uncommon B			1					0	fscs	1	fslc	1	fstl	1	fsdw	1	fsbr	1	fsrb	1	fsds	1										0
-Fate Rare A			1					0	fsha	1	fsjp	1	fsdi	1	fsfr	1	fsfa	1														0
+Fate Uncommon A			1					0	fsms	1	fspv	1	fsps	1	fstc	1	fsat	1	fslu	1	fsbm	1	fsdg	1	fsdb	1	fstb	1				0
+Fate Uncommon B			1					0	fscs	1	fslc	1	fstl	1	fsdw	1	fsbr	1	fsrb	1	fsds	1	fsap	1	fsus	1	fstm	1				0
+Fate Rare A			1					0	fsha	1	fsjp	1	fsdi	1	fsfr	1	fsfa	1	fsdn	1	fsht	1	fshs	1	fswe	1	fsre	1				0
 Fate Drop			1					0	Fate Common A	175	Fate Common B	175	Fate Common C	175	Fate Uncommon A	45	Fate Uncommon B	45	Fate Rare A	3												0
 Treasure Fallen Cards N			2					46	Fate Common A	1	Fate Common B	1	Fate Common C	1																		0
 Treasure Fallen Cards NM			2					37	Fate Common A	1	Fate Common B	1	Fate Common C	1																		0
 Treasure Fallen Cards H			2					25	Fate Common A	1	Fate Common B	1	Fate Common C	1																		0
 Treasure Fallen Orbs N			2					46	Orbs	3																						0
 Treasure Fallen Orbs NM			2					37	Orbs	3																						0
-Treasure Fallen Orbs H			2					25	Orbs	3																						0
+Treasure Fallen Orbs H			2					25	Orbs (H)	3																						0
 Uber Diablo Legacy			1					0	rotf	1	gld	69																				0
 Uber Diablo Replica			1					0	rofp	1	gld	3																				0
 Uber Diablo Void			1					0	rotv	1	gld	109																				0
@@ -1166,3 +1166,5 @@ Rathma Replica			1					0	rofp	1																						0
 Rathma Void			1					0	rotv	1	gld	84																				0
 Uber Diablo Relics			-3					0	Uber Diablo Legacy	1	Uber Diablo Replica	1	Uber Diablo Void	1																		0
 Rathma Relics			-3					0	Rathma Legacy	1	Rathma Replica	1	Rathma Void	1																		0
+Boxes			1					0	gcbx	1	ccbx	1																				0
+Orbs (H)			1					0	dvo	148	mfo	30	rgo	40	cho	208	oou	8	tjo	1	dvia	500	rotf	15	rofp	50	Boxes	30				0

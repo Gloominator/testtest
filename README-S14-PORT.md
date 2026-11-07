@@ -97,6 +97,9 @@ loads `ProjectD2/loot.filter`; the filter itself is deliberately not tracked in 
 ### Editing workflow
 
 1. Edit txt files in `reawakening-s14\data\` (programmatically or with a D2-safe editor only).
+   For the SP+ box/card stage, run `python3 tools/apply_spplus_port.py` after any
+   `tools/tc_apply_boosts.py` or patchstring rebuild so the Hell `Orbs (H)` wrapper and
+   the four box strings survive (see `docs/ra_cube_recipes.md` §20).
 2. Copy `data\` over `ProjectD2\data\`, delete `ProjectD2\data\global\excel\*.bin`.
 3. Launch once — the game recompiles all bins from txt. A crash during this writes bins up to the
    failing table, which pinpoints the culprit.

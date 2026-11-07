@@ -2765,18 +2765,18 @@ Small Charm + TES + CEH + BET + FED = Cain's Wisdom	0			100					5	"tes,qty=1"	"c
 Grand Charm + TES + CEH + BET + FED = Larzuk's Legacy	0			100					5	"tes,qty=1"	"ceh,qty=1"	"bet,qty=1"	"fed,qty=1"	cm3			Larzuk's Legacy	99																																																																																						0
 FATE SHARD EXCHANGE																																																																																																								0
 generate (dev)	0			100					1	"key,qty=1"							fsph,qty=50	131																												fstv,qty=50																													Denmother	131																												0
-3 of Lawful Sentence -> Tal Rasha’s Adjudication (DROP DISABLED)	1			100					1	fsls,qty=3							Tal Rasha's Adjudication	95																																																																																						0
+3 of Lawful Sentence -> Tal Rasha’s Adjudication (reward not a natural drop)	1			100					1	fsls,qty=3							Tal Rasha's Adjudication	95																																																																																						0
 4 of Luminescence -> Mara's Kaleidoscope	1			100					1	fslu,qty=4							Mara's Kaleidoscope	95																																																																																						0
 4 of Ammuit Treasure -> The Stone of Jordan	1			100					1	fsat,qty=4							The Stone of Jordan	95																																																																																						0
-4 of Untethered Soul -> Wisp Projector (DROP DISABLED)	1			100					1	fsus,qty=4							Wisp	95																																																																																						0
+4 of Untethered Soul -> Wisp Projector (reward not a natural drop)	1			100					1	fsus,qty=4							Wisp	95																																																																																						0
 4 of Rotting Bride -> Bul Kathos' Wedding Band	1			100					1	fsrb,qty=4							Bul Katho's Wedding Band	95																																																																																						0
-4 of The Man from the High Castle -> Highlord's Wrath (DROP DISABLED)	1			100					1	fstm,qty=4							Highlord's Wrath	95																																																																																						0
-3 of Dawn -> Rising Sun (DROP DISABLED)	1			100					1	fsdn,qty=3							The Rising Sun	95																																																																																						0
-2 of Heritage -> Gheed's Fortune (DROP DISABLED)	1			100					1	fsht,qty=2							Gheed's Fortune	95																																																																																						0
+4 of The Man from the High Castle -> Highlord's Wrath (reward not a natural drop)	1			100					1	fstm,qty=4							Highlord's Wrath	95																																																																																						0
+3 of Dawn -> Rising Sun (reward not a natural drop)	1			100					1	fsdn,qty=3							The Rising Sun	95																																																																																						0
+2 of Heritage -> Gheed's Fortune (reward not a natural drop)	1			100					1	fsht,qty=2							Gheed's Fortune	95																																																																																						0
 13 of Eternal Damnation ->Tainted WSS	1			100					1	fsed,qty=13							"cwss,qty=1"	95																																																																																						0
-4 of The Gilded Dream ->4os Herald of Zakarum (DROP DISABLED)	1			100					1	fsgd,qty=4							Herald of Zakarum	95			sock	100		4	4																																																																															0
+4 of The Gilded Dream ->4os Herald of Zakarum (reward not a natural drop)	1			100					1	fsgd,qty=4							Herald of Zakarum	95			sock	100		4	4																																																																															0
 1 of Legacy of Cain -> awakened unique ring +1 all skills	1			100					1	fslc,qty=1							"rin,uni"		100		awaken	100		25	25	awakennum	100		1001	1001	allskills	100		1	1																																																																					0
-4 of Hellforge's Secret -> superior max socket eth armor (DROP DISABLED)	1			100					1	fshs,qty=4							"tors,hiq,eth,sock=4"		100																																																																																					0
+4 of Hellforge's Secret -> superior max socket eth armor (reward not a natural drop)	1			100					1	fshs,qty=4							"tors,hiq,eth,sock=4"		100																																																																																					0
 1 of Pendant of the Void -> corrupted unique amulet +1 all skills	1			100					1	fspv,qty=1							"amul,uni"		100		corrupt	100		27	27	corruptnum	100		1001	1001	allskills	100		1	1																																																																					0
 1 of Cartographer's Favor -> 5 infused zak orb, 5 infused hora orb,5  destruction	1			100					1	fscf,qty=1							"irra,qty=5"																													"rrra,qty=5"																													"scou,qty=5"																													0
 5 of Chaos Stone -> zod rune	1			100					1	fscs,qty=5							"r33,qty=1"																																																																																							0
@@ -2785,12 +2785,12 @@ generate (dev)	0			100					1	"key,qty=1"							fsph,qty=50	131																		
 4 of The Corrupt -> corrupt +1 all 3 socket unique elite armor	1			100					1	fstc,qty=4							"tors,uni,eli"		100		corrupt	100		27	27	sock	100		3	3	corruptnum	100		1001	1001	allskills	100		1	1																																																																0
 4 of The Dark Wanderer -> corrupted +1 all max socket unique helmet	1			100					1	fsdw,qty=4							"helm,uni,eli"		100		corrupt	100		27	27	sock	100		3	3	corruptnum	100		1001	1001	allskills	100		1	1																																																																0
 5 of The Summit -> uber ancient mat	1			100					1	fsts,qty=5							uba																																																																																							0
-1 of Deckard's Gift -> 5 mythic orbs (DROP DISABLED)	1			100					1	fsdg,qty=1							"mfo,qty=5"																																																																																							0
+1 of Deckard's Gift -> 5 mythic orbs (reward not a natural drop)	1			100					1	fsdg,qty=1							"mfo,qty=5"																																																																																							0
 1 of Deckard's Stash -> 5 divine orbs	1			100					1	fsds,qty=1							"dvo,qty=5"																																																																																							0
-1 of Deckard's Blessing -> 5 regal orbs (DROP DISABLED)	1			100					1	fsdb,qty=1							"rgo,qty=5"																																																																																							0
+1 of Deckard's Blessing -> 5 regal orbs (reward not a natural drop)	1			100					1	fsdb,qty=1							"rgo,qty=5"																																																																																							0
 6 of The Fall of Tristram -> pandemonium talisman	1			100					1	fstf,qty=6							ubtm																																																																																							0
 6 of Jordan's Perfected Stone -> corrupt awaken soj +1 all skills +10fcr	1			100					1	fsjp,qty=6							The Stone of Jordan	95			corrupt	100		42	42	corruptnum	100		1001	1001	cast1	100		10	10	awakennum	100		1001	1001	allskills	100		1	1																																																											0
-4 of The Arcane Pact -> corrupt rare ring with 20fcr (DROP DISABLED)	1			100					1	fsap,qty=4							"rin,rar,suf=174"		100		corrupt	100		42	42	corruptnum	100		1001	1001	cast1	100		10	10																																																																					0
+4 of The Arcane Pact -> corrupt rare ring with 20fcr (reward not a natural drop)	1			100					1	fsap,qty=4							"rin,rar,suf=174"		100		corrupt	100		42	42	corruptnum	100		1001	1001	cast1	100		10	10																																																																					0
 3 of The Lifespring -> skiller grand charm with 41-45 life	1			100					1	fstl,qty=3							"cms,mag,pre=999,suf=339"	91																																																																																						0
 9 of Demonic Infusion -> corrupted annihilus +1 all skills	1			100					1	fsdi,qty=9							Annihilus	131			corrupt	100		27	27	corruptnum	100		1001	1001	allskills	100		1	1	dye	100		10	10																																																																0
 4 of Bloodlust -> fine small charm of vita	1			100					1	fsbl,qty=4							"cm1,mag,pre=256,suf=349"	99																																																																																						0
@@ -2799,7 +2799,7 @@ generate (dev)	0			100					1	"key,qty=1"							fsph,qty=50	131																		
 4 of The Elementalist's Ward -> shimmering small charm of vita	1			100					1	fsew,qty=4							"cm1,mag,pre=322,suf=349"	99																																																																																						0
 4 of The Slayer's Gambit -> ruby jewel of fervor	1			100					1	fssg,qty=4							"jew,mag,pre=198,suf=171"	99																																																																																						0
 4 of The Unstoppable Force -> sharp grand charm of vita	1			100					1	fstu,qty=4							"cm3,mag,pre=253,suf=339"	99																																																																																						0
-4 of Mana Weaver -> aureolic jewel of fervor (DROP DISABLED)	1			100					1	fsmw,qty=4							"jew,mag,pre=419,suf=171"	99																																																																																						0
+4 of Mana Weaver -> aureolic jewel of fervor (reward not a natural drop)	1			100					1	fsmw,qty=4							"jew,mag,pre=419,suf=171"	99																																																																																						0
 1 of The Armory -> rare ilvl 99 body armor	1			100					1	fsar,qty=1							"tors,eli,rar"	99																																																																																						0
 1 of The Weaponry -> rare ilvl 99 weapon	1			100					1	fstw,qty=1							"weap,eli,rar"	99																																																																																						0
 1 of Empower -> random skiller grand charm	1			100					1	fsem,qty=1							"cms,mag,pre=999,suf=0"	99																																																																																						0
@@ -2810,7 +2810,7 @@ generate (dev)	0			100					1	"key,qty=1"							fsph,qty=50	131																		
 7 of Bottled Radiance -> vial of lightsong	1			100					1	fsbr,qty=7							lsvl																																																																																							0
 9 of The Lord of Terror -> Vision of Terror	1			100					1	fslr,qty=9							dcma																																																																																							0
 3 of Victory -> 5 standard of heroes	1			100					1	fsvi,qty=3							"std,qty=5"																																																																																							0
-4 of The Brotherhood -> Call of the Brotherhood (DROP DISABLED)	1			100					1	fstb,qty=4							Call of the Brotherhood	95																																																																																						0
+4 of The Brotherhood -> Call of the Brotherhood (reward not a natural drop)	1			100					1	fstb,qty=4							Call of the Brotherhood	95																																																																																						0
 4 of The Fallen Archangel -> Inarius' Trinket	1			100					1	fsfa,qty=4							Inarius' Trinket	131																																																																																						0
 7 of Blessing of Might -> unique sacred armor	1			100					1	fsbm,qty=7							"uar,uni"	99																																																																																						0
 2 of The Destruction -> 3 wss	1			100					1	fstd,qty=2							wss,qty=3	99																																																																																						0
@@ -2822,8 +2822,8 @@ generate (dev)	0			100					1	"key,qty=1"							fsph,qty=50	131																		
 5 of The Lost Traveler -> unique boots, level 3 vigor when equipped	1			100					1	fslt,qty=5							"boot,uni"		100		aura	100	115	3	3																																																																															0
 3 of Akara's Jewelry Box -> random unique ring	1			100					1	fsaj,qty=3							"ring,uni"		100																																																																																					0
 1 of The Void -> random card	1			100					1	fstv,qty=1							void		100																																																																																					0
-2 of Winter's End -> rare jewel, CBF - INACTIVE	0			100					1	fswe,qty=2							jew,rar		100		nofreeze	100		1	1																																																																															0
-4 of Resilience -> unique jewel, 50% curse length - INACTIVE	0			100					1	fsre,qty=4							jew,uni	99			curse-res	100		50	50																																																																															0
+2 of Winter's End -> rare jewel, CBF	1			100					1	fswe,qty=2							jew,rar		100		nofreeze	100		1	1																																																																															0
+4 of Resilience -> unique jewel, 50% curse length	1			100					1	fsre,qty=4							jew,uni	99			curse-res	100		50	50																																																																															0
 3 of The Prince of Hatred -> Shadow of Hatred	1			100					1	fsph,qty=3							luca																																																																																							0
 ITEM DYE																																																																																																								0
 remove dye	0			100	17	477	0		2	any	yps						useitem				dye	100		-20	-20																																																																															0
@@ -3045,3 +3045,21 @@ relic of the false prophet -> replica	1	2		100	16	487	112		1	"rofp"							Replic
 unique item + key -> eternal coin	1			100					2	any,uni	key,qty=1						ncoi,qty=1																																																																																							0
 set item + key -> eternal coin	1			100					2	any,set	key,qty=1						ncoi,qty=1																																																																																							0
 5 eternal coins -> vial of awakening	1			100					1	ncoi,qty=5							dvia,qty=1																																																																																							0
+SP+ GHEED'S CURIOUS BOX - PHASE 1 - ROLL	1	2		100	18	361	0		1	gcbx							useitem				corruptnum	100		1501	1515																																																																															0
+SP+ Gheed: Perfect Amethysts	1			100	16	361	1502		1	gcbx							gpvs,qty=50																																																																																							0
+SP+ Gheed: Perfect Topazes	1			100	16	361	1504		1	gcbx							gpys,qty=50																																																																																							0
+SP+ Gheed: Perfect Skulls	1			100	16	361	1506		1	gcbx							skzs,qty=50																																																																																							0
+SP+ Gheed: Perfect Rubies	1			100	16	361	1508		1	gcbx							gprs,qty=50																																																																																							0
+SP+ Gheed: Perfect Diamonds	1			100	16	361	1510		1	gcbx							gpws,qty=50																																																																																							0
+SP+ Gheed: Perfect Sapphires	1			100	16	361	1512		1	gcbx							gpbs,qty=50																																																																																							0
+SP+ Gheed: Perfect Emeralds	1			100	16	361	1514		1	gcbx							gpgs,qty=50																																																																																							0
+SP+ Gheed: Jewel Fragments	1			100	16	361	1515		1	gcbx							jewf,qty=50																																																																																							0
+SP+ CHARSI'S CRAFTING BOX - PHASE 1 - ROLL	1	2		100	18	361	0		1	ccbx							useitem				corruptnum	100		0	506																																																																															0
+SP+ Charsi: Blood infusion	1			100	16	361	66		1	ccbx							crfb,qty=5																																																																																							0
+SP+ Charsi: Caster infusion	1			100	16	361	133		1	ccbx							crfc,qty=5																																																																																							0
+SP+ Charsi: Safety infusion	1			100	16	361	200		1	ccbx							crfs,qty=5																																																																																							0
+SP+ Charsi: Hitpower infusion	1			100	16	361	267		1	ccbx							crfh,qty=5																																																																																							0
+SP+ Charsi: Vampiric infusion	1			100	16	361	334		1	ccbx							crfv,qty=5																																																																																							0
+SP+ Charsi: Bountiful infusion	1			100	16	361	401		1	ccbx							crfu,qty=5																																																																																							0
+SP+ Charsi: Prismatic infusion	1			100	16	361	468		1	ccbx							crfp,qty=5																																																																																							0
+SP+ Charsi: Catalyst shards	1			100	16	361	506		1	ccbx							iwss,qty=5																																																																																							0

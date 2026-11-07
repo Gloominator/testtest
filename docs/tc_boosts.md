@@ -1,6 +1,10 @@
 # TC drop-rate boosts — port record (Stage 2, part 1)
 
-Applied by `tools/tc_apply_boosts.py` onto S14-based `TreasureClassEx.txt`. 84 rows changed.
+Applied by `tools/tc_apply_boosts.py` onto S14-based `TreasureClassEx.txt`. 84 rows changed
+in Stage 2. Stage 3 (`tools/apply_spplus_port.py`) then changed 28 more lines for the SP+
+boxes and restored Fate cards; see the addendum at the end. Run the Stage 3 script after
+this one so the Hell-only `Orbs (H)` wrapper survives. `tools/tc_apply_boosts.py` itself was
+updated to use `Orbs (H)` for Hell rows and the repo-relative `data/...` path.
 Method: the mod repo has no vanilla baseline (initial import `9ab233a` is already modded; the
 "backup s10 /data" commit is the *modded* S10 tree), so the mod's edits were isolated by
 diffing mod-S11 vs S14-vanilla row by row and classifying each difference as mod edit,
@@ -11,7 +15,7 @@ S12–S14 upstream change, or code-scheme difference. Cross-check via git: the S
 
 ### Good TCs — 18 rows (mod pick structure adopted)
 - `Act 1–5 (H) Good`: Chipped Gem removed; Flawed 20→27; Runes equiv 28→30; Map Tier 1 1→2;
-  **+ Orbs:4, + Fate Drop:2** (this is what makes awakening vials / fate cards actually drop).
+  **+ Orbs (H):4, + Fate Drop:2** (Stage 3 renamed the Hell pick; Normal/NM still `Orbs`).
 - `Act 1–5 (N) Good`: all weights doubled (mod's values), + Fate Drop:2, + Orbs:1.
 - `Act 1–5 Good` (normal): mod's boosted weights (e.g. Jewelry 60→240/320/320/400/400),
   + Fate Drop:2, + Orbs:1.
@@ -50,7 +54,8 @@ BR Arena sub-TCs upstream.
 
 ### Treasure Fallen — 3 rows
 Sub-drop weights 1→4 (Gem/Rune/Craft[/Map]), gold weight up (2→15 on N/NM, 1→4 on H),
-**+ Treasure Fallen Orbs:1, + Treasure Fallen Cards:1** per difficulty. S14's NoDrop kept.
+**+ Treasure Fallen Orbs N/NM/H:1, + Treasure Fallen Cards N/NM/H:1** per difficulty
+(Stage 3 points the H orb sub-TC at `Orbs (H)`). S14's NoDrop kept.
 NOT ported: mod's rune-tier targets (S14 upgraded these upstream, e.g. Rune H rolls Runes 17
 in S14 vs mod's Runes 13 — taking the mod's would be a nerf) and mod's map relic codes
 (S14 restructured: `irma/irra/rrra/urma` vs mod's `imra/rera/imma`).
@@ -83,5 +88,44 @@ Unique 200→150.
 - Integrity check after edit: 1269 issues — identical to pre-edit baseline (no new references
   introduced; Orbs/Fate Drop/Map Orbs Drop/Treasure Fallen Orbs/Cards all resolve to appended
   mod TC rows; all referenced item codes exist in merged tables).
-- Diff confined to `TreasureClassEx.txt` (84 rows), zero boss-material codes in the diff.
-- Stale `TreasureClassEx.bin` removed from repo and install; game recompiles on next launch.
+- Stage 2 diff confined to `TreasureClassEx.txt` (84 rows), zero boss-material codes.
+- Stage 3 (`tools/apply_spplus_port.py`) changed 28 TCEx lines: 5 Hell `Good` rows,
+  `Map Orbs Drop`, 6 Fate pools, `Treasure Fallen Orbs H`, plus appended `Boxes` and
+  `Orbs (H)`. `tools/tc_apply_boosts.py` now uses `Orbs (H)` for Hell Good / Map Orbs
+  Drop / Treasure Fallen Orbs H and points at the repo-relative `data/...` path.
+- Integrity check after Stage 3 remains 1269 issues; all 60 `fs*` cards resolve and every
+  `Orbs (H)` reference is Hell-only.
+- Stale `TreasureClassEx.bin` was already removed in Stage 2; Stage 3 also removed
+  `cubemain.bin`, `misc.bin`, `itemscode.bin` from repo and install; game recompiles.
+
+## Stage 3 addendum — SP+ boxes and restored Fate cards
+
+Implemented idempotently by `tools/apply_spplus_port.py`; cube recipes and item/string
+details are in `docs/ra_cube_recipes.md` §20. Settled decisions encoded here:
+
+- **Combined `mfo` rate, slight dilution accepted.** New `Orbs (H)` = original `Orbs`
+  (sum 1000) + `Boxes` at `30/1000`, exactly `mfo`'s old share. `Boxes` splits
+  `gcbx`:`ccbx` = `1`:`1`. Inside `Orbs (H)` the original orbs drop from `x/1000` to
+  `x/1030`; combined boxes match the new `mfo` rate, each box ≈ half. Hell `mfo` goes
+  from ≈1/2275 to ≈1/2343 Good rolls; map `mfo` from ≈1/1202 to ≈1/1237.
+- **Hell/map `Good` route.** `Act 1–5 (H) Good`, `Map Orbs Drop` (from `Map Good t1/t2/t3`)
+  and `Treasure Fallen Orbs H` point at `Orbs (H)`. Normal/NM Good and
+  `Treasure Fallen Orbs N/NM` keep plain `Orbs`, so boxes never appear in Normal/NM.
+  Literal Lilith Mirror parity is impossible: those rows are quality-scalar-only with
+  no picks and no `MonStats.txt` refs; the Hell/map `Good` route covers the same
+  `Good`-TC reachability as `Fate Drop`/`Orbs` (892–893 of 927 killable Hell rows).
+- **Restored cards dilute and get the same roll.** The 15 missing `fs*` codes were put
+  into the 15 free Item slots across the six existing Fate pools at `Prob 1` each;
+  `Fate Drop` group weights are unchanged, so the existing 45 cards are diluted.
+  Assignment: Common A +`fsls`; Common B +`fsgd`; Common C +`fsse`,`fsmw`; Uncommon A
+  +`fsdg`,`fsdb`,`fstb`; Uncommon B +`fsap`,`fsus`,`fstm`; Rare A
+  +`fsdn`,`fsht`,`fshs`,`fswe`,`fsre`. All 60 cards now have `type2=void`, and the two
+  `fswe`/`fsre` turn-ins are enabled. Restored cards in Common A/B/C also inherit the
+  existing `Treasure Fallen Cards N/NM/H` rows; uncommon/rare cards do not, matching the
+  other 45 cards.
+- **Only cards.** Unrelated disabled recipes (Cain's Wisdom, Larzuk's Legacy, dev
+  generate, LPP/Coin exchanges, orb gambles) were left alone.
+
+Validation: 3064 CubeMain data rows, 3735 patchstring keys, 1170 TCEx data rows, all
+row widths/CRLF/Latin-1 preserved, `check_integrity.py` still reports 1269 issues.
+In-game cube/drop acceptance tests remain pending.

@@ -1,5 +1,9 @@
 # Stage 2 deferred work
 
+> Stage 3 note: the Fate card enablement and PD2 Single Player Plus box port are now
+> implemented (see `docs/ra_cube_recipes.md` §20 and `docs/tc_boosts.md` Stage 3
+> addendum). The deferred items below still stand.
+
 Items deliberately NOT ported in Stage 1 (bootability first). Each entry lists what, why, and the recovery method.
 
 ## 1. TreasureClassEx drop-rate boosts (HIGH priority — headline feature)

@@ -17,7 +17,7 @@ Preserves latin1 + CRLF + tab structure. Operates in place on the repo copy.
 """
 import sys
 
-PATH = 'reawakening-s14/data/global/excel/TreasureClassEx.txt'
+PATH = 'data/global/excel/TreasureClassEx.txt'
 
 with open(PATH, 'rb') as f:
     raw = f.read()
@@ -90,6 +90,13 @@ def prob_edit(name, target_item, newprob):
         return set_picks(c, ps)
     edit(name, fn, f'{target_item} prob -> {newprob}')
 
+def item_edit(name, old_item, new_item):
+    def fn(c):
+        ps = [(new_item if it == old_item else it, pr) for it, pr in get_picks(c)]
+        return set_picks(c, ps)
+    edit(name, fn, f'{old_item} -> {new_item}')
+
+
 def scalar_edit(name, **kw):
     def fn(c):
         for k, v in kw.items():
@@ -104,7 +111,7 @@ hgood = {'Act 1 (H) Good': 'Runes 13 equiv', 'Act 2 (H) Good': 'Runes 14 equiv',
 for tc, runes in hgood.items():
     good_edit(tc, [('Jewelry C', 120), ('Flawed Gem', 27), ('Normal Gem', 28), ('Flawless Gem', 50),
                    ('Perfect Gem', 6), (runes, 30), ('wss', 4), ('Map Tier 1', 2),
-                   ('Orbs', 4), ('Fate Drop', 2)])
+                   ('Orbs (H)', 4), ('Fate Drop', 2)])
 
 ngood = {'Act 1 (N) Good': 'Runes 8', 'Act 2 (N) Good': 'Runes 9', 'Act 3 (N) Good': 'Runes 10',
          'Act 4 (N) Good': 'Runes 11', 'Act 5 (N) Good': 'Runes 12 equiv'}
@@ -185,6 +192,10 @@ tf_edit('Treasure Fallen N', {'Treasure Fallen Gem N': 4, 'Treasure Fallen Rune 
 tf_edit('Treasure Fallen NM', {'Treasure Fallen Gem NM': 4, 'Treasure Fallen Rune NM': 4,
                                'Treasure Fallen Craft NM': 4},
         '"gld,mul=3072"', 15, 'Treasure Fallen Orbs NM', 'Treasure Fallen Cards NM')
+
+# Hell-only orb wrapper (see tools/apply_spplus_port.py): keeps gcbx/ccbx out of Normal/NM.
+item_edit('Map Orbs Drop', 'Orbs', 'Orbs (H)')
+item_edit('Treasure Fallen Orbs H', 'Orbs', 'Orbs (H)')
 
 # ---------- F. Corrupted Zone ----------
 scalar_edit('Corrupted Zone', Unique=150)
