@@ -1,0 +1,1594 @@
+
+===== ADDED by Reawakening (795) =====
+[ON ] 48 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=48  =>  useitem | gpv,qty=16
+[ON ] 45 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=45  =>  useitem | gpv,qty=15
+[ON ] 42 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=42  =>  useitem | gpv,qty=14
+[ON ] 39 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=39  =>  useitem | gpv,qty=13
+[ON ] 36 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=36  =>  useitem | gpv,qty=12
+[ON ] 33 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=33  =>  useitem | gpv,qty=11
+[ON ] 30 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=30  =>  useitem | gpv,qty=10
+[ON ] 27 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=27  =>  useitem | gpv,qty=9
+[ON ] 24 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=24  =>  useitem | gpv,qty=8
+[ON ] 21 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=21  =>  useitem | gpv,qty=7
+[ON ] 18 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=18  =>  useitem | gpv,qty=6
+[ON ] 15 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=15  =>  useitem | gpv,qty=5
+[ON ] 12 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=12  =>  useitem | gpv,qty=4
+[ON ] 9 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=9  =>  useitem | gpv,qty=3
+[ON ] 6 flawless amethysts -> perfect amethysts
+    key,qty=1 + gzv,qty=6  =>  useitem | gpv,qty=2
+[ON ] 48 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=48  =>  useitem | gpr,qty=16
+[ON ] 45 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=45  =>  useitem | gpr,qty=15
+[ON ] 42 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=42  =>  useitem | gpr,qty=14
+[ON ] 39 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=39  =>  useitem | gpr,qty=13
+[ON ] 36 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=36  =>  useitem | gpr,qty=12
+[ON ] 33 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=33  =>  useitem | gpr,qty=11
+[ON ] 30 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=30  =>  useitem | gpr,qty=10
+[ON ] 27 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=27  =>  useitem | gpr,qty=9
+[ON ] 24 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=24  =>  useitem | gpr,qty=8
+[ON ] 21 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=21  =>  useitem | gpr,qty=7
+[ON ] 18 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=18  =>  useitem | gpr,qty=6
+[ON ] 15 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=15  =>  useitem | gpr,qty=5
+[ON ] 12 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=12  =>  useitem | gpr,qty=4
+[ON ] 9 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=9  =>  useitem | gpr,qty=3
+[ON ] 6 flawless rubies -> perfect rubies
+    key,qty=1 + glr,qty=6  =>  useitem | gpr,qty=2
+[ON ] 48 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=48  =>  useitem | gpb,qty=16
+[ON ] 45 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=45  =>  useitem | gpb,qty=15
+[ON ] 42 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=42  =>  useitem | gpb,qty=14
+[ON ] 39 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=39  =>  useitem | gpb,qty=13
+[ON ] 36 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=36  =>  useitem | gpb,qty=12
+[ON ] 33 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=33  =>  useitem | gpb,qty=11
+[ON ] 30 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=30  =>  useitem | gpb,qty=10
+[ON ] 27 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=27  =>  useitem | gpb,qty=9
+[ON ] 24 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=24  =>  useitem | gpb,qty=8
+[ON ] 21 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=21  =>  useitem | gpb,qty=7
+[ON ] 18 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=18  =>  useitem | gpb,qty=6
+[ON ] 15 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=15  =>  useitem | gpb,qty=5
+[ON ] 12 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=12  =>  useitem | gpb,qty=4
+[ON ] 9 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=9  =>  useitem | gpb,qty=3
+[ON ] 6 flawless sapphires -> perfect sapphires
+    key,qty=1 + glb,qty=6  =>  useitem | gpb,qty=2
+[ON ] 48 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=48  =>  useitem | gpy,qty=16
+[ON ] 45 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=45  =>  useitem | gpy,qty=15
+[ON ] 42 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=42  =>  useitem | gpy,qty=14
+[ON ] 39 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=39  =>  useitem | gpy,qty=13
+[ON ] 36 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=36  =>  useitem | gpy,qty=12
+[ON ] 33 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=33  =>  useitem | gpy,qty=11
+[ON ] 30 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=30  =>  useitem | gpy,qty=10
+[ON ] 27 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=27  =>  useitem | gpy,qty=9
+[ON ] 24 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=24  =>  useitem | gpy,qty=8
+[ON ] 21 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=21  =>  useitem | gpy,qty=7
+[ON ] 18 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=18  =>  useitem | gpy,qty=6
+[ON ] 15 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=15  =>  useitem | gpy,qty=5
+[ON ] 12 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=12  =>  useitem | gpy,qty=4
+[ON ] 9 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=9  =>  useitem | gpy,qty=3
+[ON ] 6 flawless topazes -> perfect topazes
+    key,qty=1 + gly,qty=6  =>  useitem | gpy,qty=2
+[ON ] 48 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=48  =>  useitem | gpg,qty=16
+[ON ] 45 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=45  =>  useitem | gpg,qty=15
+[ON ] 42 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=42  =>  useitem | gpg,qty=14
+[ON ] 39 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=39  =>  useitem | gpg,qty=13
+[ON ] 36 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=36  =>  useitem | gpg,qty=12
+[ON ] 33 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=33  =>  useitem | gpg,qty=11
+[ON ] 30 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=30  =>  useitem | gpg,qty=10
+[ON ] 27 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=27  =>  useitem | gpg,qty=9
+[ON ] 24 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=24  =>  useitem | gpg,qty=8
+[ON ] 21 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=21  =>  useitem | gpg,qty=7
+[ON ] 18 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=18  =>  useitem | gpg,qty=6
+[ON ] 15 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=15  =>  useitem | gpg,qty=5
+[ON ] 12 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=12  =>  useitem | gpg,qty=4
+[ON ] 9 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=9  =>  useitem | gpg,qty=3
+[ON ] 6 flawless emeralds -> perfect emeralds
+    key,qty=1 + gg3e,qty=6  =>  useitem | gpg,qty=2
+[ON ] 48 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=48  =>  useitem | gpw,qty=16
+[ON ] 45 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=45  =>  useitem | gpw,qty=15
+[ON ] 42 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=42  =>  useitem | gpw,qty=14
+[ON ] 39 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=39  =>  useitem | gpw,qty=13
+[ON ] 36 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=36  =>  useitem | gpw,qty=12
+[ON ] 33 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=33  =>  useitem | gpw,qty=11
+[ON ] 30 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=30  =>  useitem | gpw,qty=10
+[ON ] 27 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=27  =>  useitem | gpw,qty=9
+[ON ] 24 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=24  =>  useitem | gpw,qty=8
+[ON ] 21 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=21  =>  useitem | gpw,qty=7
+[ON ] 18 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=18  =>  useitem | gpw,qty=6
+[ON ] 15 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=15  =>  useitem | gpw,qty=5
+[ON ] 12 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=12  =>  useitem | gpw,qty=4
+[ON ] 9 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=9  =>  useitem | gpw,qty=3
+[ON ] 6 flawless diamonds -> perfect diamonds
+    key,qty=1 + glw,qty=6  =>  useitem | gpw,qty=2
+[ON ] 48 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=48  =>  useitem | skz,qty=16
+[ON ] 45 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=45  =>  useitem | skz,qty=15
+[ON ] 42 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=42  =>  useitem | skz,qty=14
+[ON ] 39 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=39  =>  useitem | skz,qty=13
+[ON ] 36 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=36  =>  useitem | skz,qty=12
+[ON ] 33 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=33  =>  useitem | skz,qty=11
+[ON ] 30 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=30  =>  useitem | skz,qty=10
+[ON ] 27 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=27  =>  useitem | skz,qty=9
+[ON ] 24 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=24  =>  useitem | skz,qty=8
+[ON ] 21 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=21  =>  useitem | skz,qty=7
+[ON ] 18 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=18  =>  useitem | skz,qty=6
+[ON ] 15 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=15  =>  useitem | skz,qty=5
+[ON ] 12 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=12  =>  useitem | skz,qty=4
+[ON ] 9 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=9  =>  useitem | skz,qty=3
+[ON ] 6 flawless skulls -> perfect skulls
+    key,qty=1 + skl,qty=6  =>  useitem | skz,qty=2
+[off] VIAL OF AWAKENING
+      =>  
+[ON ] add awaken factor to weapon
+    weap + dvia,qty=1  =>  useitem | dvia,qty=1
+[ON ] add awaken factor to armor
+    armo + dvia,qty=1  =>  useitem | dvia,qty=1
+[ON ] add awaken factor to amulet
+    amul + dvia,qty=1  =>  useitem | dvia,qty=1
+[ON ] add awaken factor to ring
+    ring + dvia,qty=1  =>  useitem | dvia,qty=1
+[ON ] add awaken factor to quiver
+    misl + dvia,qty=1  =>  useitem | dvia,qty=1
+[ON ] add awaken factor to unique charms
+    char,uni + dvia,qty=1  =>  useitem | dvia,qty=1
+[ON ] unique charm -> +1 all skills
+    char,uni + dvia,qty=1  =>  useitem
+[ON ] unique charm -> hp%, flat hp
+    char,uni + dvia,qty=1  =>  useitem
+[ON ] unique charm -> mana%, flat mana
+    char,uni + dvia,qty=1  =>  useitem
+[ON ] unique charm -> all res, all stats
+    char,uni + dvia,qty=1  =>  useitem
+[ON ] unique charm -> xp
+    char,uni + dvia,qty=1  =>  useitem
+[ON ] amulet -> all resist
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> max all resist
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> life on kill
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> mana on kill
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> all attributes
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> hp% mana%
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> bone armor on cast
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> cyclone armor on cast
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> bone spear on cast
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> venom on kill
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> foh on striking
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> lesser fade on kill
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> tornado on cast
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> holy nova on striking
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> pnova on striking
+    amul + dvia,qty=1  =>  useitem
+[ON ] amulet -> +1 all skill
+    amul + dvia,qty=1  =>  useitem
+[ON ] ring -> life leech
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> mana leech
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> life on kill
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> mana on kill
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> fcr
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> ias
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> frw
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> ibc and fbr
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> cannot be frozen
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> dual life/mana on kill
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> dual leech
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> sanctuary aura
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> conviction aura
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> salvation aura
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> blade shield aura
+    ring + dvia,qty=1  =>  useitem
+[ON ] ring -> +1 all skill
+    ring + dvia,qty=1  =>  useitem
+[ON ] glove -> fcr, life on kill
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> fcr, mana on kill
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> enhanced damage, deadly strike
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> enhanced damage, itd
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> fire skill damage
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> lightning skill damage
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> cold skill damage
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> poison skill damage
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> lower resist on striking
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> cannot be frozen
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> phys pierce
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> fire pierce
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> lightning pierce
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> cold pierce
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> poison pierce
+    glov + dvia,qty=1  =>  useitem
+[ON ] glove -> +1 all skill
+    glov + dvia,qty=1  =>  useitem
+[ON ] armor -> hp%
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> mana%
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> life on kill
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> mana on kill
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> dual life/mana on kill
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> fcr
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> ias
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> frw
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> level 36 energy shield when equipped
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> +2 random class skills
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> fire mastery, pierce
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> ltng mastery, pierce
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> cold mastery, pierce
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> pois mastery, pierce
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> +1 max curse
+    tors + dvia,qty=1  =>  useitem
+[ON ] armor -> flat max, phys pierce
+    tors + dvia,qty=1  =>  useitem
+[ON ] helm -> damage reduced %
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> absorb fire %
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> absorb lightning %
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> absorb cold %
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> fcr, mana on kill
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> ias, frw
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> ibc, fbr
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> fhr, hp%, mana%
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> +1 all skill, fcr, ias
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> +2 random class skills
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> flat max, phys pierce
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> splash radius
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> fire mastery, pierce
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> ltng mastery, pierce
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> cold mastery, pierce
+    helm + dvia,qty=1  =>  useitem
+[ON ] helm -> pois mastery, pierce
+    helm + dvia,qty=1  =>  useitem
+[ON ] boot -> ibc, flat defense
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> fcr
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> ias
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> all res
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> max all res
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> life leech, life on kill
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> mana leech, mana on kill
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> enhanced defense, magic find
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> damage reduce %
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> cannot be frozen
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> dual life/mana leech
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> dual life/mana on kill
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> frw, fcr
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> frw, ias
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> frw, dual life/mana on kill
+    boot + dvia,qty=1  =>  useitem
+[ON ] boot -> +1 all skill
+    boot + dvia,qty=1  =>  useitem
+[ON ] belt -> fcr
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> ias
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> frw
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> ibc, fbr
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> hp%, life on kill
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> mana%, mana on kill
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> all attributes
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> all res
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> 20fcr
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> 20ias
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> max all res
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> damage reduce %
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> flat damage, deadly
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> dual life/mana on kill
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> cannot be frozen
+    belt + dvia,qty=1  =>  useitem
+[ON ] belt -> +1 all skill
+    belt + dvia,qty=1  =>  useitem
+[ON ] shield -> ibc, fbr
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> fhr, fbr
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> cyclone armor on cast
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> cyclone armor on striking
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> bone armor on cast
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> bone armor on striking
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> chilling armor when equipped
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> quickness when equipped
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> 20fcr
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> max all res
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> redemption aura
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> holy freeze aura
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> vigor aura
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> defiance aura
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> fanaticism aura
+    shld + dvia,qty=1  =>  useitem
+[ON ] shield -> +1 all skill
+    shld + dvia,qty=1  =>  useitem
+[ON ] weapon -> 20 fcr
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> enhanced damage
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> 40 ias
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> fire mastery
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> ltng mastery
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> enhanced damage, life leech
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> cold mastery
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> pois mastery
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> crushing blow, ed
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> fcr, ias, fire pierce
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> fcr, ias, lightning pierce
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> fcr, ias, cold pierce
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> fcr, ias, poison pierce
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> 30 ias, enhanced damage
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> 50 flat max, 5 phys pierce
+    weap + dvia,qty=1  =>  useitem
+[ON ] weapon -> +1 all skill
+    weap + dvia,qty=1  =>  useitem
+[ON ] quiver -> life leech
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> enhanced damage
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> frw
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> fire mastery
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> ltng mastery
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> cold mastery
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> pois mastery
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> 10ias
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> 20ias
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> enhanced damage
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> flat damage, deadly
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> phys pierce
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> might aura
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> conviction aura
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> fanaticism aura
+    misl + dvia,qty=1  =>  useitem
+[ON ] quiver -> +1 all skill
+    misl + dvia,qty=1  =>  useitem
+[ON ] add corrupt factor to glove (replica hand of broc)
+    glov + wss,qty=1  =>  useitem | wss,qty=1
+[ON ] add corrupt factor to boot (replica malthael)
+    boot + wss,qty=1  =>  useitem | wss,qty=1
+[ON ] add corrupt factor to torch
+    Hellfire Torch + cwss,qty=1  =>  useitem | cwss,qty=1
+[off] HELLFIRE TORCH
+      =>  
+[ON ] Lillith's Mirror weap (uni)
+    weap,uni + llmr  =>  useitem | useitem
+[ON ] Lillith's Mirror armo (uni)
+    armo,uni + llmr  =>  useitem | useitem
+[off] Lillith's Mirror ring (uni)
+    ring,uni + llmr  =>  useitem | useitem
+[ON ] Lillith's Mirror amul (uni)
+    amul,uni + llmr  =>  useitem | useitem
+[ON ] Lillith's Mirror jewl (uni)
+    jew,uni + llmr  =>  useitem | useitem
+[ON ] Lillith's Mirror small charm
+    cm1,mag + llmr  =>  useitem | useitem
+[ON ] Lillith's Mirror large charm
+    cm2,mag + llmr  =>  useitem | useitem
+[ON ] Lillith's Mirror grand charm
+    cm3,mag + llmr  =>  useitem | useitem
+[ON ] Lillith's Mirror skill grand charm
+    cms,mag + llmr  =>  useitem | useitem
+[off] test map drop increase jewelry -- map + perfect topas (gpys)
+    map + gpy,qty=1  =>  useitem
+[off] test map drop increase weapons -- map + perfect ruby (gprs)
+    map + gpr,qty=1  =>  useitem
+[off] test map drop increase armor -- map + perfect sapphire (gpbs)
+    map + gpb,qty=1  =>  useitem
+[off] test map drop increase charms -- map + perfect emerald (gpgs)
+    map + gpg,qty=1  =>  useitem
+[ON ] Larzuks Malus + hiq weap = max socket
+    weap,nos,hiq + lmal,qty=1  =>  useitem
+[ON ] Larzuks Malus + hiq helm = max socket
+    helm,nos,hiq + lmal,qty=1  =>  useitem
+[ON ] Larzuks Malus + hiq shield = max socket
+    shld,nos,hiq + lmal,qty=1  =>  useitem
+[ON ] Larzuks Malus + hiq chest = max socket
+    tors,nos,hiq + lmal,qty=1  =>  useitem
+[ON ] Larzuks Malus + nor weap = max socket
+    weap,nos,nor + lmal,qty=1  =>  useitem
+[ON ] Larzuks Malus + nor helm = max socket
+    helm,nos,nor + lmal,qty=1  =>  useitem
+[ON ] Larzuks Malus + nor shield = max socket
+    shld,nos,nor + lmal,qty=1  =>  useitem
+[ON ] Larzuks Malus + nor chest = max socket
+    tors,nos,nor + lmal,qty=1  =>  useitem
+[ON ] magic circ + jewel + rune 23 + p diamond -> ama cast circ
+    circ,mag,noe + jewg,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] magic circ + jewel + rune 23 + p diamond -> ama cast circ
+    circ,mag,eth + jewg,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] magic circ + vial of awakening + rune 23 + p diamond -> ama ias circ
+    circ,mag,noe + dvia,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] magic circ + vial of awakening + rune 23 + p diamond -> ama ias circ
+    circ,mag,eth + dvia,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] rare circ + jewel + rune 23 + p diamond -> ama cast circ
+    circ,rar,noe + jewg,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] rare circ + jewel + rune 23 + p diamond -> ama cast circ
+    circ,rar,eth + jewg,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] rare circ + vial of awakening + rune 23 + p diamond -> ama ias circ
+    circ,rar,noe + dvia,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] rare circ + vial of awakening + rune 23 + p diamond -> ama ias circ
+    circ,rar,eth + dvia,qty=1 + r23g,qty=1 + gg4d,qty=1  =>  usetype,crf,pre=825
+[ON ] magic circ + jewel + rune 23 + p skull -> pal cast circ
+    circ,mag,noe + jewg,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] magic circ + jewel + rune 23 + p skull -> pal cast circ
+    circ,mag,eth + jewg,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] magic circ + vial of awakening + rune 23 + p skull -> pal ias circ
+    circ,mag,noe + dvia,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] magic circ + vial of awakening + rune 23 + p skull -> pal ias circ
+    circ,mag,eth + dvia,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] rare circ + jewel + rune 23 + p skull -> pal cast circ
+    circ,rar,noe + jewg,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] rare circ + jewel + rune 23 + p skull -> pal cast circ
+    circ,rar,eth + jewg,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] rare circ + vial of awakening + rune 23 + p skull -> pal ias circ
+    circ,rar,noe + dvia,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] rare circ + vial of awakening + rune 23 + p skull -> pal ias circ
+    circ,rar,eth + dvia,qty=1 + r23g,qty=1 + gg4z,qty=1  =>  usetype,crf,pre=827
+[ON ] magic circ + jewel + rune 23 + p amethyst -> nec cast circ
+    circ,mag,noe + jewg,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] magic circ + jewel + rune 23 + p amethyst -> nec cast circ
+    circ,mag,eth + jewg,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] magic circ + vial of awakening + rune 23 + p amethyst -> nec ias circ
+    circ,mag,noe + dvia,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] magic circ + vial of awakening + rune 23 + p amethyst -> nec ias circ
+    circ,mag,eth + dvia,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] rare circ + jewel + rune 23 + p amethyst -> nec cast circ
+    circ,rar,noe + jewg,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] rare circ + jewel + rune 23 + p amethyst -> nec cast circ
+    circ,rar,eth + jewg,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] rare circ + vial of awakening + rune 23 + p amethyst -> nec ias circ
+    circ,rar,noe + dvia,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] rare circ + vial of awakening + rune 23 + p amethyst -> nec ias circ
+    circ,rar,eth + dvia,qty=1 + r23g,qty=1 + gg4a,qty=1  =>  usetype,crf,pre=829
+[ON ] magic circ + jewel + rune 23 + p topaz -> sor cast circ
+    circ,mag,noe + jewg,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] magic circ + jewel + rune 23 + p topaz -> sor cast circ
+    circ,mag,eth + jewg,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] magic circ + vial of awakening + rune 23 + p topaz -> sor ias circ
+    circ,mag,noe + dvia,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] magic circ + vial of awakening + rune 23 + p topaz -> sor ias circ
+    circ,mag,eth + dvia,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] rare circ + jewel + rune 23 + p topaz -> sor cast circ
+    circ,rar,noe + jewg,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] rare circ + jewel + rune 23 + p topaz -> sor cast circ
+    circ,rar,eth + jewg,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] rare circ + vial of awakening + rune 23 + p topaz -> sor ias circ
+    circ,rar,noe + dvia,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] rare circ + vial of awakening + rune 23 + p topaz -> sor ias circ
+    circ,rar,eth + dvia,qty=1 + r23g,qty=1 + gg4t,qty=1  =>  usetype,crf,pre=831
+[ON ] magic circ + jewel + rune 23 + p sapphire -> bar cast circ
+    circ,mag,noe + jewg,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] magic circ + jewel + rune 23 + p sapphire -> bar cast circ
+    circ,mag,eth + jewg,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] magic circ + vial of awakening + rune 23 + p sapphire -> bar ias circ
+    circ,mag,noe + dvia,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] magic circ + vial of awakening + rune 23 + p sapphire -> bar ias circ
+    circ,mag,eth + dvia,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] rare circ + jewel + rune 23 + p sapphire -> bar cast circ
+    circ,rar,noe + jewg,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] rare circ + jewel + rune 23 + p sapphire -> bar cast circ
+    circ,rar,eth + jewg,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] rare circ + vial of awakening + rune 23 + p sapphire -> bar ias circ
+    circ,rar,noe + dvia,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] rare circ + vial of awakening + rune 23 + p sapphire -> bar ias circ
+    circ,rar,eth + dvia,qty=1 + r23g,qty=1 + gg4s,qty=1  =>  usetype,crf,pre=833
+[ON ] magic circ + jewel + rune 23 + p emerald -> dru cast circ
+    circ,mag,noe + jewg,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] magic circ + jewel + rune 23 + p emerald -> dru cast circ
+    circ,mag,eth + jewg,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] magic circ + vial of awakening + rune 23 + p emerald -> dru ias circ
+    circ,mag,noe + dvia,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] magic circ + vial of awakening + rune 23 + p emerald -> dru ias circ
+    circ,mag,eth + dvia,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] rare circ + jewel + rune 23 + p emerald -> dru cast circ
+    circ,rar,noe + jewg,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] rare circ + jewel + rune 23 + p emerald -> dru cast circ
+    circ,rar,eth + jewg,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] rare circ + vial of awakening + rune 23 + p emerald -> dru ias circ
+    circ,rar,noe + dvia,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] rare circ + vial of awakening + rune 23 + p emerald -> dru ias circ
+    circ,rar,eth + dvia,qty=1 + r23g,qty=1 + gg4e,qty=1  =>  usetype,crf,pre=835
+[ON ] magic circ + jewel + rune 23 + p ruby -> ass cast circ
+    circ,mag,noe + jewg,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[ON ] magic circ + jewel + rune 23 + p ruby -> ass cast circ
+    circ,mag,eth + jewg,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[ON ] magic circ + vial of awakening + rune 23 + p ruby -> ass ias circ
+    circ,mag,noe + dvia,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[ON ] magic circ + vial of awakening + rune 23 + p ruby -> ass ias circ
+    circ,mag,eth + dvia,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[ON ] rare circ + jewel + rune 23 + p ruby -> ass cast circ
+    circ,rar,noe + jewg,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[ON ] rare circ + jewel + rune 23 + p ruby -> ass cast circ
+    circ,rar,eth + jewg,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[ON ] rare circ + vial of awakening + rune 23 + p ruby -> ass ias circ
+    circ,rar,noe + dvia,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[ON ] rare circ + vial of awakening + rune 23 + p ruby -> ass ias circ
+    circ,rar,eth + dvia,qty=1 + r23g,qty=1 + gg4r,qty=1  =>  usetype,crf,pre=837
+[off] DIVINE ORB
+      =>  
+[ON ] Reroll unique non-ethereal no-socket armor values
+    armo,uni,noe,nos + dvo,qty=1  =>  usetype,uni,noe
+[ON ] Reroll unique ethereal no-socket armor values
+    armo,uni,eth,nos + dvo,qty=1  =>  usetype,uni,eth
+[ON ] Reroll unique non-ethereal no-socket weapon values
+    weap,uni,noe,nos + dvo,qty=1  =>  usetype,uni,noe
+[ON ] Reroll unique ethereal no-socket weapon values
+    weap,uni,eth,nos + dvo,qty=1  =>  usetype,uni,eth
+[ON ] Reroll set weapon no-socket values
+    weap,set,nos + dvo,qty=1  =>  usetype,set
+[ON ] Reroll set armor no-socket values
+    armo,set,nos + dvo,qty=1  =>  usetype,set
+[ON ] Reroll unique jewel
+    jew,uni + dvo,qty=1  =>  jew,uni
+[ON ] Reroll unique grand charm
+    cm3,uni + dvo,qty=1  =>  usetype,uni
+[ON ] Reroll unique ring
+    ring,uni + dvo,qty=1  =>  usetype,uni
+[ON ] Reroll set ring
+    ring,set + dvo,qty=1  =>  usetype,set
+[ON ] Reroll unique amulet
+    amul,uni + dvo,qty=1  =>  usetype,uni
+[ON ] Reroll set amulet
+    amul,set + dvo,qty=1  =>  usetype,set
+[ON ] Reroll unique quiver
+    misl,uni + dvo,qty=1  =>  usetype,uni
+[off] x UNUSED x
+      =>  
+[ON ] randomise armo mods
+    armo + dvo,qty=1  =>  useitem,reg
+[ON ] randomise weap mods
+    weap + dvo,qty=1  =>  useitem,reg
+[ON ] randomise ring mods
+    ring + dvo,qty=1  =>  useitem,reg
+[ON ] randomise amul mods
+    amul + dvo,qty=1  =>  useitem,reg
+[ON ] randomise misl mods
+    misl + dvo,qty=1  =>  useitem,reg
+[off] x END UNUSED x
+      =>  
+[off] CHAOS ORB
+      =>  
+[ON ] chaos orb + rare weap -> rerolled rare weap
+    weap,rar,noe + cho,qty=1  =>  usetype,rar,noe
+[ON ] chaos orb + rare eth weap -> rerolled rare eth weap
+    weap,rar,eth + cho,qty=1  =>  usetype,rar
+[ON ] chaos orb + rare armor -> rerolled rare armor
+    armo,rar,noe + cho,qty=1  =>  usetype,rar,noe
+[ON ] chaos orb + rare eth armor -> rerolled rare eth armor
+    armo,rar,eth + cho,qty=1  =>  usetype,rar
+[ON ] chaos orb + rare ring -> rerolled rare ring
+    ring,rar + cho,qty=1  =>  usetype,rar
+[ON ] chaos orb + rare amul -> rerolled rare amulet
+    amul,rar + cho,qty=1  =>  usetype,rar
+[ON ] chaos orb + rare quiver -> rerolled rare quiver
+    misl,rar + cho,qty=1  =>  usetype,rar
+[ON ] chaos orb + rare jewel -> rerolled rare jewel
+    jew,rar + cho,qty=1  =>  usetype,rar
+[off] x UNUSED x
+      =>  
+[off] add mythic factor to normal weapon
+    weap,nor + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] add mythic factor to magic weapon
+    weap,mag + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] add mythic factor to normal armor
+    armo,nor + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] add mythic factor to magic armor
+    armo,mag + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] add mythic factor to normal ring
+    ring,nor + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] add mythic factor to magic ring
+    ring,mag + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] add mythic factor to normal amulet
+    amul,nor + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] add mythic factor to magic amulet
+    amul,mag + mfo,qty=1  =>  useitem | mfo,qty=1
+[off] weapon -> destroyed
+    weap + mfo,qty=1  =>  tsc,qty=1
+[off] normal weapon -> unique
+    weap,noe,nor + mfo,qty=1  =>  usetype,uni,noe
+[off] normal ethereal weapon -> unique
+    weap,eth,nor + mfo,qty=1  =>  usetype,uni
+[off] magic weapon -> unique
+    weap,noe,mag + mfo,qty=1  =>  usetype,uni,noe
+[off] magic ethereal weapon -> unique
+    weap,eth,mag + mfo,qty=1  =>  usetype,uni
+[off] armor -> destroyed
+    armo + mfo,qty=1  =>  tsc,qty=1
+[off] normal hyperion to Unending Resolve
+    urg,noe,nor + mfo,qty=1  =>  urgs,uni,noe
+[off] magic hyperion to Unending Resolve
+    urg,noe,mag + mfo,qty=1  =>  urgs,uni,noe
+[off] normal ethereal hyperion to Unending Resolve
+    urg,nor,eth + mfo,qty=1  =>  urgs,uni
+[off] magic ethereal hyperion to Unending Resolve
+    urg,mag,eth + mfo,qty=1  =>  urgs,uni
+[off] normal armor -> unique
+    armo,noe,nor + mfo,qty=1  =>  usetype,uni,noe
+[off] normal ethereal armor -> unique
+    armo,eth,nor + mfo,qty=1  =>  usetype,uni
+[off] magic armor -> unique
+    armo,noe,mag + mfo,qty=1  =>  usetype,uni,noe
+[off] magic ethereal armor -> unique
+    armo,eth,mag + mfo,qty=1  =>  usetype,uni
+[off] ring -> destroyed
+    ring + mfo,qty=1  =>  tsc,qty=1
+[off] normal ring -> unique
+    ring,nor + mfo,qty=1  =>  usetype,uni
+[off] magic ring -> unique
+    ring,mag + mfo,qty=1  =>  usetype,uni
+[off] amulet -> destroyed
+    amul + mfo,qty=1  =>  tsc,qty=1
+[off] normal amulet -> unique
+    amul,nor + mfo,qty=1  =>  usetype,uni
+[off] magic amulet -> unique
+    amul,mag + mfo,qty=1  =>  usetype,uni
+[off] x END UNUSED x
+      =>  
+[off] ANCIENT ORB
+      =>  
+[off] Convert normal hyperion to Unending Resolve
+    urg,noe,nor + mfo,qty=1  =>  urgs,uni,noe
+[off] Convert magic hyperion to Unending Resolve
+    urg,noe,mag + mfo,qty=1  =>  urgs,uni,noe
+[ON ] Convert rare hyperion to Unending Resolve
+    urg,noe,rar + mfo,qty=1  =>  urgs,uni,noe
+[off] Convert magic ethereal hyperion to Unending Resolve
+    urg,mag,eth + mfo,qty=1  =>  urgs,uni
+[ON ] Convert rare ethereal hyperion to Unending Resolve
+    urg,rar,eth + mfo,qty=1  =>  urgs,uni
+[off] Convert normal quality non-ethereal armor to unique
+    armo,noe,nor + mfo,qty=1  =>  usetype,uni,noe
+[off] Convert magic quality non-ethereal armor to unique
+    armo,noe,mag + mfo,qty=1  =>  usetype,uni,noe
+[ON ] Convert rare quality non-ethereal armor to unique
+    armo,noe,rar + mfo,qty=1  =>  usetype,uni,noe
+[off] Convert magic quality ethereal armor to unique
+    armo,mag,eth + mfo,qty=1  =>  usetype,uni
+[ON ] Convert rare quality ethereal armor to unique
+    armo,rar,eth + mfo,qty=1  =>  usetype,uni
+[off] Convert normal quality non-ethereal weapon to unique
+    weap,noe,nor + mfo,qty=1  =>  usetype,uni,noe
+[off] Convert magic quality non-ethereal weapon to unique
+    weap,noe,mag + mfo,qty=1  =>  usetype,uni,noe
+[ON ] Convert rare quality non-ethereal weapon to unique
+    weap,noe,rar + mfo,qty=1  =>  usetype,uni,noe
+[off] Convert magic quality ethereal weapon to unique
+    weap,mag,eth + mfo,qty=1  =>  usetype,uni
+[ON ] Convert rare quality ethereal weapon to unique
+    weap,rar,eth + mfo,qty=1  =>  usetype,uni
+[off] Convert magic quality ring to unique
+    ring,mag + mfo,qty=1  =>  usetype,uni,noe
+[ON ] Convert rare quality ring to unique
+    ring,rar + mfo,qty=1  =>  usetype,uni,noe
+[off] Convert magic quality amulet to unique
+    amul,mag + mfo,qty=1  =>  usetype,uni,noe
+[ON ] Convert rare quality amulet to unique
+    amul,rar + mfo,qty=1  =>  usetype,uni,noe
+[off] Convert magic quality quiver to unique
+    misl,mag + mfo,qty=1  =>  usetype,uni,noe
+[ON ] Convert rare quality quiver to unique
+    misl,rar + mfo,qty=1  =>  usetype,uni,noe
+[ON ] Mythic orb+ 50 jewel fragments = random unique jewel
+    mfo,qty=1 + jewf,qty=50  =>  jew,uni
+[off] REGAL ORB
+      =>  
+[off] Convert normal quality non-ethereal armor to set piece
+    armo,noe,nor + rgo,qty=1  =>  usetype,set
+[off] Convert magic quality non-ethereal armor to set piece
+    armo,noe,mag + rgo,qty=1  =>  usetype,set
+[ON ] Convert rare quality non-ethereal armor to set piece
+    armo,noe,rar + rgo,qty=1  =>  usetype,set
+[off] Convert magic quality ethereal armor to set piece
+    armo,eth,mag + rgo,qty=1  =>  usetype,set
+[ON ] Convert rare quality ethereal armor to set piece
+    armo,eth,rar + rgo,qty=1  =>  usetype,set
+[off] Convert normal quality non-ethereal weapon to set piece
+    weap,noe,nor + rgo,qty=1  =>  usetype,set
+[off] Convert magic quality non-ethereal weapon to set piece
+    weap,noe,mag + rgo,qty=1  =>  usetype,set
+[ON ] Convert rare quality non-ethereal weapon to set piece
+    weap,noe,rar + rgo,qty=1  =>  usetype,set
+[off] Convert magic quality ethereal weapon to set piece
+    weap,eth,mag + rgo,qty=1  =>  usetype,set
+[ON ] Convert rare quality ethereal weapon to set piece
+    weap,eth,rar + rgo,qty=1  =>  usetype,set
+[off] Convert magic quality amulet to set piece
+    amul,mag + rgo,qty=1  =>  usetype,set
+[ON ] Convert rare quality amulet to set piece
+    amul,rar + rgo,qty=1  =>  usetype,set
+[off] Convert magic quality ring to set piece
+    ring,mag + rgo,qty=1  =>  usetype,set
+[ON ] Convert rare quality ring to set piece
+    ring,rar + rgo,qty=1  =>  usetype,set
+[off] ORB OF UNMAKING
+      =>  
+[ON ] unmaking amulet
+    amul + oou,qty=1  =>  useitem
+[ON ] unmaking ring
+    ring + oou,qty=1  =>  useitem
+[ON ] unmaking armor
+    armo + oou,qty=1  =>  useitem
+[ON ] unmaking weapon
+    weap + oou,qty=1  =>  useitem
+[ON ] unmaking unique charms
+    char,uni + oou,qty=1  =>  useitem
+[ON ] unmaking quiver
+    misl + oou,qty=1  =>  useitem
+[off] TAINTED JEWELLERS ORB
+      =>  
+[off] tainted jeweller's orb normal item factor
+    any,sock,nor + tjo,qty=1  =>  useitem | tjo,qty=1
+[off] tainted jeweller's orb superior item factor
+    any,sock,hiq + tjo,qty=1  =>  useitem | tjo,qty=1
+[ON ] tainted jeweller's orb magic item factor
+    any,sock,mag + tjo,qty=1  =>  useitem | tjo,qty=1
+[ON ] tainted jeweller's orb rare item factor
+    any,sock,rar + tjo,qty=1  =>  useitem | tjo,qty=1
+[ON ] tainted jeweller's orb crafted item factor
+    any,sock,crf + tjo,qty=1  =>  useitem | tjo,qty=1
+[ON ] tainted jeweller's orb unique item factor
+    any,sock,uni + tjo,qty=1  =>  useitem | tjo,qty=1
+[ON ] tainted jeweller's orb unique item factor
+    any,sock,set + tjo,qty=1  =>  useitem | tjo,qty=1
+[off] tainted jeweller's orb + normal -> destroy sockets
+    any,sock,nor + tjo,qty=1  =>  useitem,uns
+[off] tainted jeweller's orb + normal -> remove sockets
+    any,sock,nor + tjo,qty=1  =>  useitem,rem
+[off] tainted jeweller's orb + superior -> destroy sockets
+    any,sock,hiq + tjo,qty=1  =>  useitem,uns
+[off] tainted jeweller's orb + superior -> remove sockets
+    any,sock,hiq + tjo,qty=1  =>  useitem,rem
+[ON ] tainted jeweller's orb + mag -> destroy sockets
+    any,sock,mag + tjo,qty=1  =>  useitem,uns
+[ON ] tainted jeweller's orb + mag -> remove sockets
+    any,sock,mag + tjo,qty=1  =>  useitem,rem
+[ON ] tainted jeweller's orb + rare -> destroy sockets
+    any,sock,rar + tjo,qty=1  =>  useitem,uns
+[ON ] tainted jeweller's orb + rare -> remove sockets
+    any,sock,rar + tjo,qty=1  =>  useitem,rem
+[ON ] tainted jeweller's orb + crafted -> destroy sockets
+    any,sock,crf + tjo,qty=1  =>  useitem,uns
+[ON ] tainted jeweller's orb + crafted -> remove sockets
+    any,sock,crf + tjo,qty=1  =>  useitem,rem
+[ON ] tainted jeweller's orb + unique -> destroy sockets
+    any,sock,uni + tjo,qty=1  =>  useitem,uns
+[ON ] tainted jeweller's orb + unique -> remove sockets
+    any,sock,uni + tjo,qty=1  =>  useitem,rem
+[ON ] tainted jeweller's orb + set -> destroy sockets
+    any,sock,set + tjo,qty=1  =>  useitem,uns
+[ON ] tainted jeweller's orb + set -> remove sockets
+    any,sock,set + tjo,qty=1  =>  useitem,rem
+[off] HATRED/TERROR EMBER
+      =>  
+[ON ] hatred ember + torch + ama -> awakened multiple shot
+    Hellfire Torch + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + sor -> awakened charged bolt
+    Hellfire Torch + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + nec -> awakened teeth
+    Hellfire Torch + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + pal -> awakened concentration
+    Hellfire Torch + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + bar -> awakened concentrate
+    Hellfire Torch + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + dru -> awakened cyclone armor
+    Hellfire Torch + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + ass -> awakened fade of speed
+    Hellfire Torch + heo,qty=1  =>  useitem
+[ON ] terror ember + torch + ama -> awakened cold arrow
+    Hellfire Torch + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + sor -> awakened blizzard
+    Hellfire Torch + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + nec -> awakened bone spear
+    Hellfire Torch + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + pal -> awakened blessed hammer
+    Hellfire Torch + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + bar -> awakened war cry
+    Hellfire Torch + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + dru -> awakened tornado
+    Hellfire Torch + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + ass -> awakened mind blast
+    Hellfire Torch + teo,qty=1  =>  useitem
+[ON ] hatred ember + torch + ama -> awakened multiple shot
+    Annihilus + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + sor -> awakened charged bolt
+    Annihilus + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + nec -> awakened teeth
+    Annihilus + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + pal -> awakened concentration
+    Annihilus + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + bar -> awakened concentrate
+    Annihilus + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + dru -> awakened cyclone armor
+    Annihilus + heo,qty=1  =>  useitem
+[ON ] hatred ember + torch + ass -> awakened fade of speed
+    Annihilus + heo,qty=1  =>  useitem
+[ON ] terror ember + torch + ama -> awakened cold arrow
+    Annihilus + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + sor -> awakened blizzard
+    Annihilus + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + nec -> awakened bone spear
+    Annihilus + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + pal -> awakened blessed hammer
+    Annihilus + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + bar -> awakened war cry
+    Annihilus + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + dru -> awakened tornado
+    Annihilus + teo,qty=1  =>  useitem
+[ON ] terror ember + torch + ass -> awakened mind blast
+    Annihilus + teo,qty=1  =>  useitem
+[off] Small Charm + TES + CEH + BET + FED = Cain's Wisdom
+    tes,qty=1 + ceh,qty=1 + bet,qty=1 + fed,qty=1 + cm1  =>  Cain's Wisdom
+[off] Grand Charm + TES + CEH + BET + FED = Larzuk's Legacy
+    tes,qty=1 + ceh,qty=1 + bet,qty=1 + fed,qty=1 + cm3  =>  Larzuk's Legacy
+[off] FATE SHARD EXCHANGE
+      =>  
+[off] generate (dev)
+    key,qty=1  =>  fsph,qty=50 | fstv,qty=50 | Denmother
+[ON ] 3 of Lawful Sentence -> Tal Rasha’s Adjudication (DROP DISABLED)
+    fsls,qty=3  =>  Tal Rasha's Adjudication
+[ON ] 4 of Luminescence -> Mara's Kaleidoscope
+    fslu,qty=4  =>  Mara's Kaleidoscope
+[ON ] 4 of Ammuit Treasure -> The Stone of Jordan
+    fsat,qty=4  =>  The Stone of Jordan
+[ON ] 4 of Untethered Soul -> Wisp Projector (DROP DISABLED)
+    fsus,qty=4  =>  Wisp
+[ON ] 4 of Rotting Bride -> Bul Kathos' Wedding Band
+    fsrb,qty=4  =>  Bul Katho's Wedding Band
+[ON ] 4 of The Man from the High Castle -> Highlord's Wrath (DROP DISABLED)
+    fstm,qty=4  =>  Highlord's Wrath
+[ON ] 3 of Dawn -> Rising Sun (DROP DISABLED)
+    fsdn,qty=3  =>  The Rising Sun
+[ON ] 2 of Heritage -> Gheed's Fortune (DROP DISABLED)
+    fsht,qty=2  =>  Gheed's Fortune
+[ON ] 13 of Eternal Damnation ->Tainted WSS
+    fsed,qty=13  =>  cwss,qty=1
+[ON ] 4 of The Gilded Dream ->4os Herald of Zakarum (DROP DISABLED)
+    fsgd,qty=4  =>  Herald of Zakarum
+[ON ] 1 of Legacy of Cain -> awakened unique ring +1 all skills
+    fslc,qty=1  =>  rin,uni
+[ON ] 4 of Hellforge's Secret -> superior max socket eth armor (DROP DISABLED)
+    fshs,qty=4  =>  tors,hiq,eth,sock=4
+[ON ] 1 of Pendant of the Void -> corrupted unique amulet +1 all skills
+    fspv,qty=1  =>  amul,uni
+[ON ] 1 of Cartographer's Favor -> 5 infused zak orb, 5 infused hora orb,5  destruction
+    fscf,qty=1  =>  irra,qty=5 | rrra,qty=5 | scou,qty=5
+[ON ] 5 of Chaos Stone -> zod rune
+    fscs,qty=5  =>  r33,qty=1
+[ON ] 3 of The Awakening -> 5 vials of awakening
+    fsta,qty=3  =>  dvia,qty=5
+[ON ] 9 of Hood of the Archangel -> corrupted +1 all 2 socket shako
+    fsha,qty=9  =>  Harlequin Crest
+[ON ] 4 of The Corrupt -> corrupt +1 all 3 socket unique elite armor
+    fstc,qty=4  =>  tors,uni,eli
+[ON ] 4 of The Dark Wanderer -> corrupted +1 all max socket unique helmet
+    fsdw,qty=4  =>  helm,uni,eli
+[ON ] 5 of The Summit -> uber ancient mat
+    fsts,qty=5  =>  uba
+[ON ] 1 of Deckard's Gift -> 5 mythic orbs (DROP DISABLED)
+    fsdg,qty=1  =>  mfo,qty=5
+[ON ] 1 of Deckard's Stash -> 5 divine orbs
+    fsds,qty=1  =>  dvo,qty=5
+[ON ] 1 of Deckard's Blessing -> 5 regal orbs (DROP DISABLED)
+    fsdb,qty=1  =>  rgo,qty=5
+[ON ] 6 of The Fall of Tristram -> pandemonium talisman
+    fstf,qty=6  =>  ubtm
+[ON ] 6 of Jordan's Perfected Stone -> corrupt awaken soj +1 all skills +10fcr
+    fsjp,qty=6  =>  The Stone of Jordan
+[ON ] 4 of The Arcane Pact -> corrupt rare ring with 20fcr (DROP DISABLED)
+    fsap,qty=4  =>  rin,rar,suf=174
+[ON ] 3 of The Lifespring -> skiller grand charm with 41-45 life
+    fstl,qty=3  =>  cms,mag,pre=999,suf=339
+[ON ] 9 of Demonic Infusion -> corrupted annihilus +1 all skills
+    fsdi,qty=9  =>  Annihilus
+[ON ] 4 of Bloodlust -> fine small charm of vita
+    fsbl,qty=4  =>  cm1,mag,pre=256,suf=349
+[ON ] 3 of Serpent's Fang -> serpent's small charm of vita
+    fssf,qty=3  =>  cm1,mag,pre=303,suf=349
+[ON ] 3 of Serpent's Embrace -> serpent's small charm of balance
+    fsse,qty=3  =>  cm1,mag,pre=303,suf=267
+[ON ] 4 of The Elementalist's Ward -> shimmering small charm of vita
+    fsew,qty=4  =>  cm1,mag,pre=322,suf=349
+[ON ] 4 of The Slayer's Gambit -> ruby jewel of fervor
+    fssg,qty=4  =>  jew,mag,pre=198,suf=171
+[ON ] 4 of The Unstoppable Force -> sharp grand charm of vita
+    fstu,qty=4  =>  cm3,mag,pre=253,suf=339
+[ON ] 4 of Mana Weaver -> aureolic jewel of fervor (DROP DISABLED)
+    fsmw,qty=4  =>  jew,mag,pre=419,suf=171
+[ON ] 1 of The Armory -> rare ilvl 99 body armor
+    fsar,qty=1  =>  tors,eli,rar
+[ON ] 1 of The Weaponry -> rare ilvl 99 weapon
+    fstw,qty=1  =>  weap,eli,rar
+[ON ] 1 of Empower -> random skiller grand charm
+    fsem,qty=1  =>  cms,mag,pre=999,suf=0
+[ON ] 1 of Prismatic Splinters -> 10 jewel fragments
+    fsps,qty=1  =>  jewf,qty=10
+[ON ] 3 of Momentum Shift -> FHR skiller grand charm
+    fsms,qty=3  =>  cms,mag,pre=999,suf=265
+[ON ] 5 of Larzuk's Anvil -> puzzlebox
+    fsla,qty=5  =>  lbox,qty=1
+[ON ] 9 of The False Reflection -> mirror
+    fsfr,qty=9  =>  llmr
+[ON ] 7 of Bottled Radiance -> vial of lightsong
+    fsbr,qty=7  =>  lsvl
+[ON ] 9 of The Lord of Terror -> Vision of Terror
+    fslr,qty=9  =>  dcma
+[ON ] 3 of Victory -> 5 standard of heroes
+    fsvi,qty=3  =>  std,qty=5
+[ON ] 4 of The Brotherhood -> Call of the Brotherhood (DROP DISABLED)
+    fstb,qty=4  =>  Call of the Brotherhood
+[ON ] 4 of The Fallen Archangel -> Inarius' Trinket
+    fsfa,qty=4  =>  Inarius' Trinket
+[ON ] 7 of Blessing of Might -> unique sacred armor
+    fsbm,qty=7  =>  uar,uni
+[ON ] 2 of The Destruction -> 3 wss
+    fstd,qty=2  =>  wss,qty=3
+[ON ] 3 of The Chaos -> 5 chaos orb
+    fsch,qty=3  =>  cho,qty=5
+[ON ] 7 of The Enlightened -> rare circ +1 all
+    fste,qty=7  =>  circ,rar
+[ON ] 12 of Ascension -> socketed sup eth sacred armor
+    fsas,qty=12  =>  uar,hiq
+[ON ] 9 of Unbending Will -> 2-4 sock armor, corrupt +1
+    fsuw,qty=9  =>  tors,nor,eli
+[ON ] 4 of The Mind-> unique amu, +1 telekinesis oskill
+    fsmi,qty=4  =>  amu,uni
+[ON ] 5 of The Lost Traveler -> unique boots, level 3 vigor when equipped
+    fslt,qty=5  =>  boot,uni
+[ON ] 3 of Akara's Jewelry Box -> random unique ring
+    fsaj,qty=3  =>  ring,uni
+[ON ] 1 of The Void -> random card
+    fstv,qty=1  =>  void
+[off] 2 of Winter's End -> rare jewel, CBF - INACTIVE
+    fswe,qty=2  =>  jew,rar
+[off] 4 of Resilience -> unique jewel, 50% curse length - INACTIVE
+    fsre,qty=4  =>  jew,uni
+[ON ] 3 of The Prince of Hatred -> Shadow of Hatred
+    fsph,qty=3  =>  luca
+[off] ITEM DYE
+      =>  
+[off] remove dye
+    any + yps  =>  useitem
+[off] red armor
+    armo + gg4r,qty=1 + lmal  =>  useitem
+[off] RUNE DOWNGRADING
+      =>  
+[ON ] r02 downgrade eld -> 1 el
+    key,qty=1 + r02,qty=1  =>  useitem | r01,qty=1
+[ON ] r03 downgrade tir -> 1 eld
+    key,qty=1 + r03,qty=1  =>  useitem | r02,qty=1
+[ON ] r04 downgrade nef -> 1 tir
+    key,qty=1 + r04,qty=1  =>  useitem | r03,qty=1
+[ON ] r05 downgrade eth -> 1 nef
+    key,qty=1 + r05,qty=1  =>  useitem | r04,qty=1
+[ON ] r06 downgrade ith ->1 eth
+    key,qty=1 + r06,qty=1  =>  useitem | r05,qty=1
+[ON ] r07 downgrade tal -> 1 ith
+    key,qty=1 + r07,qty=1  =>  useitem | r06,qty=1
+[ON ] r08 downgrade ral -> 1 tal
+    key,qty=1 + r08,qty=1  =>  useitem | r07,qty=1
+[ON ] r09 downgrade ort -> 1 ral
+    key,qty=1 + r09,qty=1  =>  useitem | r08,qty=1
+[ON ] r10 downgrade thul -> 1 ort
+    key,qty=1 + r10,qty=1  =>  useitem | r09,qty=1
+[ON ] r11 downgrade amn -> 1 thul
+    key,qty=1 + r11,qty=1  =>  useitem | r10,qty=1
+[ON ] r12 downgrade sol -> 1 amn
+    key,qty=1 + r12,qty=1  =>  useitem | r11,qty=1
+[ON ] r13 downgrade shael -> 1 sol
+    key,qty=1 + r13,qty=1  =>  useitem | r12,qty=1
+[ON ] r14 downgrade dol -> 1 shael
+    key,qty=1 + r14,qty=1  =>  useitem | r13,qty=1
+[ON ] r15 downgrade hel -> 1 dol
+    key,qty=1 + r15,qty=1  =>  useitem | r14,qty=1
+[ON ] r16 downgrade io -> 1 hel
+    key,qty=1 + r16,qty=1  =>  useitem | r15,qty=1
+[ON ] r17 downgrade lum -> 1 io
+    key,qty=1 + r17,qty=1  =>  useitem | r16,qty=1
+[ON ] r18 downgrade ko -> 1 lum
+    key,qty=1 + r18,qty=1  =>  useitem | r17,qty=1
+[ON ] r19 downgrade fal -> 1 ko
+    key,qty=1 + r19,qty=1  =>  useitem | r18,qty=1
+[ON ] r20 downgrade lem -> 1 fal
+    key,qty=1 + r20,qty=1  =>  useitem | r19,qty=1
+[ON ] r21 downgrade pul -> 1 lem
+    key,qty=1 + r21,qty=1  =>  useitem | r20,qty=1
+[ON ] r22 downgrade um -> 1 pul
+    key,qty=1 + r22,qty=1  =>  useitem | r21,qty=1
+[ON ] r23 downgrade mal -> 1 um
+    key,qty=1 + r23,qty=1  =>  useitem | r22,qty=1
+[ON ] r24 downgrade ist -> 1 mal
+    key,qty=1 + r24,qty=1  =>  useitem | r23,qty=1
+[ON ] r25 downgrade gul -> ist
+    key,qty=1 + r25,qty=1  =>  useitem | r24,qty=1
+[ON ] r26 downgrade vex -> gul
+    key,qty=1 + r26,qty=1  =>  useitem | r25,qty=1
+[ON ] r27 downgrade ohm -> vex
+    key,qty=1 + r27,qty=1  =>  useitem | r26,qty=1
+[ON ] r28 downgrade lo -> ohm
+    key,qty=1 + r28,qty=1  =>  useitem | r27,qty=1
+[ON ] r29 downgrade sur -> lo
+    key,qty=1 + r29,qty=1  =>  useitem | r28,qty=1
+[ON ] r30 downgrade ber -> sur
+    key,qty=1 + r30,qty=1  =>  useitem | r29,qty=1
+[ON ] r31 downgrade jah -> ber
+    key,qty=1 + r31,qty=1  =>  useitem | r30,qty=1
+[ON ] r32 downgrade cham -> jah
+    key,qty=1 + r32,qty=1  =>  useitem | r31,qty=1
+[ON ] r33 downgrade zod -> cham
+    key,qty=1 + r33,qty=1  =>  useitem | r32,qty=1
+[off] EXCHANGES
+      =>  
+[off] 3x LPP + Coin = Larzuk's Puzzle Box
+    lpp,qty=3 + ncoi,qty=1  =>  lbox
+[off] Larzuk's Puzzle Box + Coin = Vex
+    lbox,qty=1 + ncoi,qty=1  =>  r26,qty=1
+[off] LPP + Coin = Mal
+    lpp,qty=1 + ncoi,qty=1  =>  r23,qty=1
+[off] Catalyst Shard + Coin = 2x catalyst shard
+    iwss,qty=1 + ncoi,qty=1  =>  iwss | iwss
+[off] Lilith's Mirror + 4x Coin = 4x Ber
+    llmr + ncoi,qty=4  =>  r30s,qty=4
+[off] Vial of Lightsong + 2x Coin = 2x Ber
+    lsvl + ncoi,qty=2  =>  r30s,qty=2
+[ON ] Perfect Amethyst + Ist = 50 P. Amethyst
+    r24g,qty=1 + gg4a,qty=1  =>  gpvs,qty=50
+[ON ] Perfect Ruby + Ist = 50 P. Ruby
+    r24g,qty=1 + gg4r,qty=1  =>  gprs,qty=50
+[ON ] Perfect Sapphire + Ist = 50 P. Sapphire
+    r24g,qty=1 + gg4s,qty=1  =>  gpbs,qty=50
+[ON ] Perfect Topaz + Ist = 50 P. Topaz
+    r24g,qty=1 + gg4t,qty=1  =>  gpys,qty=50
+[ON ] Perfect Emerald + Coin = 50 P. Emerald
+    r24g,qty=1 + gg4e,qty=1  =>  gpgs,qty=50
+[ON ] Perfect Diamond + Coin = 50 P. Diamond
+    r24g,qty=1 + gg4d,qty=1  =>  gpws,qty=50
+[ON ] Perfect Skull + Coin = 50 P. Skull
+    r24g,qty=1 + gg4z,qty=1  =>  skzs,qty=50
+[ON ] vex + jewel + coin -> 10 vial of awakening
+    r26g,qty=1 + jewg,qty=50 + ncoi,qty=1  =>  dvia,qty=10
+[off] Lo + jewel + coin -> 10 divine orbs
+    r28g,qty=1 + jewg,qty=50 + ncoi,qty=1  =>  dvo,qty=10
+[off] sur + jewel + coin -> 10 mythic orbs
+    r29g,qty=1 + jewg,qty=50 + ncoi,qty=1  =>  mfo,qty=10
+[ON ] sur + 50 t2 sigil -> 50 t1 sigil
+    r29g,qty=1 + ubab,qty=50  =>  ubaa,qty=50
+[ON ] sur + 50 t3 sigil -> 50 t2 sigil
+    r29g,qty=1 + ubac,qty=50  =>  ubab,qty=50
+[ON ] ist + el -> 50 el
+    r24,qty=1 + r01,qty=1  =>  r01,qty=50
+[ON ] ist + eld -> 50 eld
+    r24,qty=1 + r02,qty=1  =>  r02,qty=50
+[ON ] ist + tir -> 50 tir
+    r24,qty=1 + r03,qty=1  =>  r03,qty=50
+[ON ] ist + nef -> 50 nef
+    r24,qty=1 + r04,qty=1  =>  r04,qty=50
+[ON ] ist + eth -> 50 eth
+    r24,qty=1 + r05,qty=1  =>  r05,qty=50
+[ON ] ist + ith -> 50 ith
+    r24,qty=1 + r06,qty=1  =>  r06,qty=50
+[ON ] ist + tal -> 50 tal
+    r24,qty=1 + r07,qty=1  =>  r07,qty=50
+[ON ] ist + ral -> 50 ral
+    r24,qty=1 + r08,qty=1  =>  r08,qty=50
+[ON ] ist + ort -> 50 ort
+    r24,qty=1 + r09,qty=1  =>  r09,qty=50
+[ON ] ist + thul -> 50 thul
+    r24,qty=1 + r10,qty=1  =>  r10,qty=50
+[ON ] ist + amn -> 50 amn
+    r24,qty=1 + r11,qty=1  =>  r11,qty=50
+[ON ] ist + sol -> 50 sol
+    r24,qty=1 + r12,qty=1  =>  r12,qty=50
+[off] goggly moogly
+      =>  
+[off] RELIC OF THE NEPHALEM
+      =>  
+[ON ] add relic factor
+    rotf  =>  useitem
+[ON ] relic -> 08 shako
+    rotf  =>  uapl,uni
+[ON ] relic -> 08 arkaines
+    rotf  =>  upll,uni
+[ON ] relic -> armageddon slippers
+    rotf  =>  Armageddon Slippers
+[ON ] relic -> King's Jewel of Blazing
+    rotf  =>  King's Jewel of Blazing
+[ON ] relic -> storm circlet
+    rotf  =>  Storm Circlet
+[ON ] relic -> 08 vgaze
+    rotf  =>  xh9l,uni
+[ON ] relic -> siggard's stealth
+    rotf  =>  Siggard's Stealth
+[ON ] relic -> snatchii's steelclash
+    rotf  =>  Snatchii's Steelclash
+[ON ] relic -> wiz gloves
+    rotf  =>  tgll,uni
+[ON ] relic -> occy soj
+    rotf  =>  Occy Soj
+[ON ] relic -> Bugged Windforce
+    rotf  =>  Bugged Windforce
+[ON ] relic -> Bugged Stormshield
+    rotf  =>  Bugged Stormshield
+[ON ] relic -> Bugged Buriza-Do Kyanon
+    rotf  =>  Bugged Buriza-Do Kyanon
+[ON ] relic -> Bugged Aquariu's Stormrider
+    rotf  =>  Aquariu's Stormrider
+[ON ] relic -> Bugged Wartraveler
+    rotf  =>  Bugged Wartraveler
+[ON ] relic -> Ith Colossus Blade
+    rotf  =>  Ith Colossus Blade
+[off] RELIC OF THE VOID
+      =>  
+[ON ] add relic factor
+    rotv  =>  useitem
+[ON ] relic of the void -> Itheraels Path
+    rotv  =>  Itheraels Path
+[ON ] relic of the void -> Overlords Helm
+    rotv  =>  Overlords Helm
+[ON ] relic of the void -> Dark Abyss
+    rotv  =>  Dark Abyss
+[ON ] relic of the void -> Aidans Scar
+    rotv  =>  Aidans Scar
+[ON ] relic of the void -> Hadriels Hand
+    rotv  =>  Hadriels Hand
+[ON ] relic of the void -> Band of Skulls
+    rotv  =>  Band of Skulls
+[ON ] relic of the void -> Cage of the Unsullied
+    rotv  =>  Cage of the Unsullied
+[ON ] relic of the void -> The Third Eye
+    rotv  =>  The Third Eye
+[ON ] 10 zod + coin -> lightsong
+    r33g,qty=10 + ncoi,qty=1  =>  lsvl
+[ON ] 50 pde + 50 jewel fragments + coin -> pandemonium talisman
+    dcbl,qty=50 + ncoi,qty=1 + jewg,qty=50  =>  ubtm
+[ON ] 50 wss + jah, cham, zod -> rathma access
+    wss,qty=50 + r33g,qty=2  =>  rtma
+[ON ] r07 + r10 + 1 perfect topaz + sup torso -> socketed torso
+    tors,hiq,nos + r07g,qty=1 + r10g,qty=1 + gg4t,qty=1  =>  useitem
+[ON ] r08 + r11 + 1 perfect amethyst + sup weapon -> socketed weapon
+    weap,hiq,nos + r08g,qty=1 + r11g,qty=1 + gg4a,qty=1  =>  useitem
+[ON ] r08 + r10 + 1 perfect sapphire + sup helm -> socketed helm
+    helm,hiq,nos + r08g,qty=1 + r10g,qty=1 + gg4s,qty=1  =>  useitem
+[ON ] r07 + r11 + 1 perfect ruby + sup shield -> socketed shield
+    shld,hiq,nos + r07g,qty=1 + r11g,qty=1 + gg4r,qty=1  =>  useitem
+[off] RELIC OF THE FALSE PROPHET
+      =>  
+[ON ] add relic factor
+    rofp  =>  useitem
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Templar's Might
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Tyrael's Might
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Steel Carapace
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Leviathan
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Atma's Wail
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Heavenly Garb
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Griffon's Eye
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Izual's Redemption
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Infernal Mantle
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Valkyrie Wing
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Overlords Helm
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Kira's Guardian
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Halaberd's Reign
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Raekors Virtue
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Ravenlore
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Crown of the Faceless
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Andariel's Visage
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Dark Abyss
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Spike Thorn
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Medusa's Gaze
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Unending Resolve
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Spirit Ward
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Dreadweaver
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Dragonscale
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Headhunter's Glory
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Frostburn
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Hellmouth
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Dracul's Grasp
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Occultist
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Steelrend
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Wraithgrip
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Gravepalm
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Magefist
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Infernostride
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Marrowwalk
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Itheraels Path
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Silkweave
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Shadow Dancer
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Warbringer
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Worldshaper's Binding
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Thundergod's Vigor
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Snowclash
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Nosferatu's Coil
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Saracen's Chance
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Highlord's Wrath
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica The Cat's Eye
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica The Third Eye
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Metalgrid
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Mara's Kaleidoscope
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Amulet of the Viper
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica The Stone of Jordan
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Carrion Wind
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Wisp Projector
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Raven Frost
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Dwarf Star
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Kadala's Heirloom
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Bul Kathos Wedding Band
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Nature's Peace
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Rainbow Facet
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Death Cleaver
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Executioner's Justice
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Hellslayer
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Horizon's Tornado
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Earth Shifter
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Lightsabre
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Azurewrath
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Hadriels Hand
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Leoric's Mithril Bane
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Grim's Burning Dead
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Skull Collector
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Mang Song's Lesson
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Blood Raven's Charge
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Shadow Killer
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Aidan's Scar
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Surgefletcher
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Malediction
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Crown of Ages
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Giant Skull
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Nightwing's Veil
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Elemental Overload
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Purgatory
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Soul Drainer
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Death's Fathom
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Eschuta's Temper
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Ursa's Nightmare
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Band of Skulls
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Call of the Brotherhood
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Cage of the Unsullied
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica The Hand of Broc
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica The Gladiator's Bane
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Malthael's Shadow Steps
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Tals
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Ondal's Almighty
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Bk Ring
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Telling of Beads
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Malediction Amp
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Atma's Scarab
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Darkforce Spawn
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Harlequin Crest
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Steel Shade
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Fleet Footwork
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Firelizard's Talons
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Death's Web
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Hellrack
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Brimstone Rain
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Ondal's Wisdom
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Guardian Angel
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Arkaine's Valor
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Chronowrap
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Stormspire
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Arm of King Leoric
+[ON ] relic of the false prophet -> replica
+    rofp  =>  Replica Armageddon's Blade
+
+===== REMOVED vs S14 vanilla (0) =====
